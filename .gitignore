@@ -1,0 +1,25 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Langflow / Python local setup
+.venv/
+__pycache__/
+*.pyc
+langflow-config-dir/
+
+# Exported flows may contain keys — review before committing
+flows/*.json
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Cloudflare local config
+.cloudflared/
