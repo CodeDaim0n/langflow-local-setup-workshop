@@ -4,6 +4,13 @@ Build, run, and iterate on **AI agents with no code** using [Langflow](https://w
 
 **If you want to learn a no-code AI agent builder that is independent of any workflow engine, this is the track for you.** Connect an agent to a workflow engine later — through [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/) and a [Camunda 8](https://console.camunda.io/) REST call — only if and when you want to embed it in a business process.
 
+> **This workshop spans two repositories — each works on its own:**
+>
+> | Repository | What it teaches |
+> |---|---|
+> | **Langflow — no-code AI agent builder — you are here** | Build no-code AI agents, independent of any workflow engine. |
+> | **[Camunda workflow — business loan onboarding](https://github.com/CodeDaim0n/business-loan-onboarding-workshop)** | Orchestrate an agentic business process on Camunda 8, and call your Langflow agent from it. |
+
 > Use **synthetic test data only**. Keep all API keys out of Git, screenshots, and shared documents.
 
 ---
