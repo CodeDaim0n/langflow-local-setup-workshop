@@ -1,0 +1,15 @@
+Copyright (c) 2026 The Langflow Local Setup Workshop authors.
+
+These materials are provided for educational use as part of the workshop.
+
+You are granted permission to use, copy, and adapt the contents of this
+repository for personal learning and for delivering or participating in the
+workshop. The materials are provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and noninfringement. In no
+event shall the authors be liable for any claim, damages, or other liability
+arising from the use of these materials.
+
+This repository contains documentation only. Exported flows, credentials, and
+customer data are not included and must never be committed. Use synthetic test
+data only.
