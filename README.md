@@ -2,7 +2,9 @@
 
 Run [Langflow](https://www.langflow.org/) on Windows or macOS, connect a model provider (OpenAI or a local [Ollama](https://ollama.com/) model), expose your machine to [Camunda 8 SaaS](https://console.camunda.io/) through a [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/), and call your flow with a Langflow API key.
 
-This is the optional **local AI track** for the [Business Loan Onboarding & Verification workshop](https://github.com/CodeDaim0n/business-loan-onboarding-workshop). Use it when you want to build AI flows on your own machine instead of calling a hosted model directly from Camunda.
+This is the optional **local AI track** for the [Business Loan Onboarding & Verification workshop](https://github.com/CodeDaim0n/business-loan-onboarding-workshop) — part of the code-along webinar **“Build a No Code AI Banking Agent”** (Monday, June 29, 11 AM ET). Use it when you want to build AI agents and flows on your own machine instead of calling a hosted model directly from Camunda.
+
+You can build and run agents in Langflow with just a model provider (OpenAI or local Ollama). The Camunda and Cloudflare Tunnel steps are only needed to connect your flow to the full workshop example.
 
 > Use **synthetic test data only**. Keep all API keys out of Git, screenshots, and shared documents.
 
